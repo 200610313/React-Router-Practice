@@ -1,4 +1,4 @@
-# Student Manager
+# Simple Shop
 A simple app that demonstrates the use of  React Router and fetching a public API to get object
 ## Important concepts learned
 - Route
