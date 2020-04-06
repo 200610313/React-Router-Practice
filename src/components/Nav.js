@@ -10,6 +10,7 @@ function Nav() {
           <li>About</li>
         </Link>
         <Link to='/shop'>
+          {/* Name */}
           <li>Shop</li>
         </Link>
         <Link to='/'>
